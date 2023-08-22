@@ -1,0 +1,19 @@
+img {
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+img:hover {
+    transition: transform 0.2s ease-in;
+    transform: scale(1.03) translateZ(10px);
+}
+
+.fade-in {
+    opacity: 0%;
+    transition: opacity 250ms ease-in;
+}
+
+.fade-in.appear {
+    opacity: 1;
+}
