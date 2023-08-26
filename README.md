@@ -12,10 +12,14 @@ It is an image search application using Unsplash API to get access to enormous c
 Link to access the application - [https://pics-self-omega.vercel.app/](https://pics-self-omega.vercel.app/)
 
 To run this project in your local system:
-1. make sure that 'node.js', 'npm' and 'git' is installed on the system 
+1. make sure that 'node.js' and 'git' is installed on the system 
 2. clone the github repository
+  ```
+  git clone https://github.com/yash-g101/pics.git
+  ```
 3. navigate to the project directory and run the following commands
   ```
+  cd pics
   npm install
   npm start
   ```
