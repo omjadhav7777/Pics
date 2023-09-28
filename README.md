@@ -3,6 +3,9 @@
 It is an image search application using Unsplash API to get access to enormous collection of images.
 
 
+<img width="958" alt="image" src="https://github.com/omjadhav7777/Pics/assets/128471144/50342c45-2795-4c4e-b80e-1fdaf35deb26">
+<img width="372" alt="image" src="https://github.com/omjadhav7777/Pics/assets/128471144/ca8acfb7-2403-41ab-864d-8c1798e2c571">
+
 
 
 \
